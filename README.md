@@ -43,8 +43,7 @@
 ## 🚀 **Getting Started with Frame Extractor**
 
 ### ⬇️ **Download**
-- Get the latest release from the [Releases page](https://github.com/Ryukotsuki/Frame-Extractor/releases).  
-  (Standalone `.exe` coming soon)
+- Get the latest release from the [Releases page](https://github.com/Ryukotsuki/Frame-Extractor/releases)
 
 ## 💖 **Support and Contributions**  
 If you enjoy **Frame Extractor** and want to support its development, consider donating.  
