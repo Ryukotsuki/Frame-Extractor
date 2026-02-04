@@ -23,7 +23,7 @@
 - 📂 **Intuitive Interface**
   Progress bar, real-time feedback, dark modern theme, scrollable layout
   
-- 🔗 **Bonus Tool Integration**
+- 🔗 **Tool Integration**
   One-click access to the **Login Animation XML Generator** (For PokeMMO Animated Login Screens)
   
 - 💾 **Reliable & Logged**
