@@ -44,7 +44,7 @@
 
 ### ⬇️ **Download**
 - Get the latest release from the [Releases page](https://github.com/Ryukotsuki/Frame-Extractor/releases).  
-  (Standalone `.exe` coming soon — currently source-only)
+  (Standalone `.exe` coming soon)
 
 ## 💖 **Support and Contributions**  
 If you enjoy **Window Mode Changer** and want to support its development, consider donating.  
