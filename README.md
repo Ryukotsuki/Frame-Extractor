@@ -47,7 +47,7 @@
   (Standalone `.exe` coming soon)
 
 ## 💖 **Support and Contributions**  
-If you enjoy **Window Mode Changer** and want to support its development, consider donating.  
+If you enjoy **Frame Extractor** and want to support its development, consider donating.  
 - [Donate via PayPal](https://paypal.me/Ryukotsuki?country.x=US&locale.x=en_US)  
 
 Have questions or suggestions? Join our community Discord.  
