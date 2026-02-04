@@ -13,7 +13,7 @@
 - 🎥 **Video & GIF Support**  
   Load MP4, AVI, MOV, MKV, GIF and extract frames at original FPS or custom rate
   
-- 🖼️ **Custom Extraction Options**
+- ⚙️ **Custom Extraction Options**
   - Choose output resolution (original, 1080p, 1440p, 4K, or custom)
   - Select JPG or PNG output format
   - Extract at specific FPS or target total frame count
