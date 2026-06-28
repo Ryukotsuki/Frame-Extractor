@@ -1,0 +1,8 @@
+Pillow
+imageio
+imageio-ffmpeg
+moviepy
+proglog
+PyInstaller
+PySide6
+PySide6-Fluent-Widgets
